@@ -1,4 +1,4 @@
-##main
+#main
 from lib_mod import mult, add
 
 if __name__ == '__main__': 
