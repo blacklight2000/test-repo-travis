@@ -1,0 +1,5 @@
+*.pyc
+.ref
+github.txt
+test-repo-travisci.txt
+
