@@ -1,0 +1,14 @@
+machine:
+  python:
+    version: 2.7.6
+
+test:
+  override:
+    - nosetests lib_mod.py
+
+deployment:
+  production:
+    branch: master
+    commands:
+      - python main.py
+
