@@ -1,2 +1,2 @@
 Python == 2.7
-
+nosetests == 1.3
