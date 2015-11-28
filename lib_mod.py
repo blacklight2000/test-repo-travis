@@ -11,5 +11,5 @@ def test_mult_3_4():
     assert(mult(3,4) == 12)
 
 def test_add_3_4():
-    assert(add(3,4) ==70)
+    assert(add(3,4) ==7)
 
